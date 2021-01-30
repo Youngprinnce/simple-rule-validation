@@ -1,7 +1,7 @@
 {
   "name": "simple-validation-rule-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "SIMPLE RULE VALIDATION API",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -9,6 +9,16 @@
   "author": "Ajiboye Adedotun",
   "license": "MIT",
   "dependencies": {
+    "compression": "^1.7.4",
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Youngprinnce/simple-rule-validation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Youngprinnce/simple-rule-validation/issues"
+  },
+  "homepage": "https://github.com/Youngprinnce/simple-rule-validation#readme"
 }
